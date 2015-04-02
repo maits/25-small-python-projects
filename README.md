@@ -1,2 +1,2 @@
 # rock-paper-scissor.py
-A rock paper scissor made with Python 
+25 beginner Python projects as seen on http://www.reddit.com/r/beginnerprojects 
