@@ -39,6 +39,6 @@ while 1:
         print "I win!"
         break
     elif u == 5:
-        print "Congratulations! You win, ", name #Congratulate the user on winning along with their name
+        print "Congratulations! You win, ", name 
         print
         break
